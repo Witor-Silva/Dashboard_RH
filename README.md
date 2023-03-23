@@ -1,4 +1,4 @@
-Esse dashboard analisa o quadro de funcionários de uma empresa, os dados foram obtidos fora do Kaggle.com.
+Esse dashboard analisa o quadro de funcionários de uma empresa, os dados foram obtidos do Kaggle.com.
  A finalidade desse projeto é identificar:
  
  Quantos funcionários foram contratados no ultimo ano;
